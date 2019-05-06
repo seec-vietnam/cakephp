@@ -22,4 +22,6 @@ now you can access to `http://0.0.0.0/posts`
 
 you can access to database from container.
 
-enter db container `docker-compose exec db bash` then, you can access database `mysql -u user -p -h 0.0.0.0`.
+enter db container `docker-compose exec db bash` 
+then, you can access database `mysql -u user -ppass -h 0.0.0.0 cakeapp`.
+

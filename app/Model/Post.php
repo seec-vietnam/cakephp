@@ -41,9 +41,3 @@ class Post extends AppModel {
 		),
 	);
 }
-
-
-
-class hoge {
-    public $hogehoge;
-}
